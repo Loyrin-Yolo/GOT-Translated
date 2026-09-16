@@ -6,11 +6,11 @@
     "stable": {
       "notes": "Stable channel",
       "launcher": {
-        "version": "0.4.2",
-        "url": "https://github.com/Loyrin-Yolo/GOT-Translated/releases/download/V0.4.2/GOT-Translated-Launcher-v0.4.2-WINDOWS.zip",
-        "sha256": "AFD4852D67955F07BF24D85E42812881CA45E5323267143D10AC70C4DFE3BCCA",
-        "filename": "GOT-Translated-Launcher-v0.4.2-WINDOWS.zip",
-        "entry": "GOT-Translated-Launcher-v0.4.2.exe"
+        "version": "0.4.3",
+        "url": "https://github.com/Loyrin-Yolo/GOT-Translated/releases/download/v0.4.3/GOT-Translated-Launcher-v0.4.3-WINDOWS.zip",
+        "sha256": "7A4C07E2DA23741555861B3B0132F27D0612A761189F1D38B8F0FE709EED3B5E",
+        "filename": "GOT-Translated-Launcher-v0.4.3-WINDOWS.zip",
+        "entry": "GOT-Translated-Launcher-v0.4.3.exe"
       }
     },
     "test": {
