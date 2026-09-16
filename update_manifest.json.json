@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "product": "got.translated.arknights.ru",
+  "notes": "GOT Translated public update feed",
+  "channels": {
+    "stable": {
+      "notes": "Stable channel",
+      "launcher": {
+        "version": "0.4.2",
+        "url": "https://github.com/Loyrin-Yolo/GOT-Translated/releases/download/V0.4.2/GOT-Translated-Launcher-v0.4.2-WINDOWS.zip",
+        "sha256": "AFD4852D67955F07BF24D85E42812881CA45E5323267143D10AC70C4DFE3BCCA",
+        "filename": "GOT-Translated-Launcher-v0.4.2-WINDOWS.zip",
+        "entry": "GOT-Translated-Launcher-v0.4.2.exe"
+      }
+    },
+    "test": {
+      "notes": "Test channel"
+    }
+  }
+}
