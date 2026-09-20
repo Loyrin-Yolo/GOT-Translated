@@ -6,32 +6,26 @@
     "stable": {
       "notes": "Stable channel",
       "launcher": {
-        "version": "0.4.5",
-        "url": "https://github.com/Loyrin-Yolo/GOT-Translated/releases/download/v0.4.5/GOT-Translated-Launcher-v0.4.5-WINDOWS.zip",
-        "sha256": "C0BB09058209E50CB635D2D1D4320D3D17EDDCBFF126EDD6E1B0955C6CFB07D2",
-        "filename": "GOT-Translated-Launcher-v0.4.5-WINDOWS.zip",
-        "entry": "GOT-Translated-Launcher-v0.4.5.exe",
+        "version": "0.4.6",
+        "url": "https://github.com/Loyrin-Yolo/GOT-Translated/releases/download/v0.4.6/GOT-Translated-Launcher-v0.4.6-WINDOWS.zip",
+        "sha256": "89A107874A0F37AD907ACBCAD322AA02CACA95636925E93BD13ED520ADA95BCF",
+        "filename": "GOT-Translated-Launcher-v0.4.6-WINDOWS.zip",
+        "entry": "GOT-Translated-Launcher-v0.4.6.exe",
         "full": {
-          "url": "https://github.com/Loyrin-Yolo/GOT-Translated/releases/download/v0.4.5/GOT-Translated-Launcher-v0.4.5-WINDOWS.zip",
-          "sha256": "C0BB09058209E50CB635D2D1D4320D3D17EDDCBFF126EDD6E1B0955C6CFB07D2",
-          "filename": "GOT-Translated-Launcher-v0.4.5-WINDOWS.zip"
+          "url": "https://github.com/Loyrin-Yolo/GOT-Translated/releases/download/v0.4.6/GOT-Translated-Launcher-v0.4.6-WINDOWS.zip",
+          "sha256": "89A107874A0F37AD907ACBCAD322AA02CACA95636925E93BD13ED520ADA95BCF",
+          "filename": "GOT-Translated-Launcher-v0.4.6-WINDOWS.zip"
         },
-        "patches": {
-          "0.4.4": {
-            "url": "https://github.com/Loyrin-Yolo/GOT-Translated/releases/download/v0.4.5/GOT-Translated-Launcher-v0.4.4-to-v0.4.5-PATCH.zip",
-            "sha256": "AFB729198B31AE8F30D9CA8C8C911303251CFC568DA3B09A6A379E06A471F82D",
-            "filename": "GOT-Translated-Launcher-v0.4.4-to-v0.4.5-PATCH.zip"
-          }
-        }
+        "patches": {}
       },
       "translation": {
         "version": "2.0-is6-safe.20260920",
-        "url": "https://github.com/Loyrin-Yolo/GOT-Translated/releases/download/v0.4.5/GOT_TRANSLATED_IS6_CURRENT_SAFE_20260920.gotloc",
+        "url": "https://github.com/Loyrin-Yolo/GOT-Translated/releases/download/v0.4.6/GOT_TRANSLATED_IS6_CURRENT_SAFE_20260920.gotloc",
         "sha256": "2D1628BC5F652837B8A8DB9E0DAE7CD1521F2F6A6BB40EA6915BFD66507E3B8D",
         "filename": "GOT_TRANSLATED_IS6_CURRENT_SAFE_20260920.gotloc",
         "min_launcher": "0.4.3",
         "full": {
-          "url": "https://github.com/Loyrin-Yolo/GOT-Translated/releases/download/v0.4.5/GOT_TRANSLATED_IS6_CURRENT_SAFE_20260920.gotloc",
+          "url": "https://github.com/Loyrin-Yolo/GOT-Translated/releases/download/v0.4.6/GOT_TRANSLATED_IS6_CURRENT_SAFE_20260920.gotloc",
           "sha256": "2D1628BC5F652837B8A8DB9E0DAE7CD1521F2F6A6BB40EA6915BFD66507E3B8D",
           "filename": "GOT_TRANSLATED_IS6_CURRENT_SAFE_20260920.gotloc"
         },
