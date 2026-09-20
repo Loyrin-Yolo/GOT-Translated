@@ -1,16 +1,35 @@
 {
   "schema": 1,
   "product": "got.translated.arknights.ru",
-  "notes": "GOT Translated public update feed",
+  "notes": "GOT Translated stable: launcher/translation separated; resumable downloads, SHA256, patch fallback and rollback.",
   "channels": {
     "stable": {
       "notes": "Stable channel",
       "launcher": {
-        "version": "0.4.3",
-        "url": "https://github.com/Loyrin-Yolo/GOT-Translated/releases/download/v0.4.3/GOT-Translated-Launcher-v0.4.3-WINDOWS.zip",
-        "sha256": "7A4C07E2DA23741555861B3B0132F27D0612A761189F1D38B8F0FE709EED3B5E",
-        "filename": "GOT-Translated-Launcher-v0.4.3-WINDOWS.zip",
-        "entry": "GOT-Translated-Launcher-v0.4.3.exe"
+        "version": "0.4.4",
+        "url": "https://github.com/Loyrin-Yolo/GOT-Translated/releases/download/v0.4.4/GOT-Translated-Launcher-v0.4.4-WINDOWS.zip",
+        "sha256": "A57C55116C4AF4BEB762E157ED41F8CD1F40BCE81740C62B77C3194CAA1E2092",
+        "filename": "GOT-Translated-Launcher-v0.4.4-WINDOWS.zip",
+        "entry": "GOT-Translated-Launcher-v0.4.4.exe",
+        "full": {
+          "url": "https://github.com/Loyrin-Yolo/GOT-Translated/releases/download/v0.4.4/GOT-Translated-Launcher-v0.4.4-WINDOWS.zip",
+          "sha256": "A57C55116C4AF4BEB762E157ED41F8CD1F40BCE81740C62B77C3194CAA1E2092",
+          "filename": "GOT-Translated-Launcher-v0.4.4-WINDOWS.zip"
+        },
+        "patches": {}
+      },
+      "translation": {
+        "version": "2.0-is6-safe.20260920",
+        "url": "https://github.com/Loyrin-Yolo/GOT-Translated/releases/download/v0.4.4/GOT_TRANSLATED_IS6_CURRENT_SAFE_20260920.gotloc",
+        "sha256": "2D1628BC5F652837B8A8DB9E0DAE7CD1521F2F6A6BB40EA6915BFD66507E3B8D",
+        "filename": "GOT_TRANSLATED_IS6_CURRENT_SAFE_20260920.gotloc",
+        "min_launcher": "0.4.3",
+        "full": {
+          "url": "https://github.com/Loyrin-Yolo/GOT-Translated/releases/download/v0.4.4/GOT_TRANSLATED_IS6_CURRENT_SAFE_20260920.gotloc",
+          "sha256": "2D1628BC5F652837B8A8DB9E0DAE7CD1521F2F6A6BB40EA6915BFD66507E3B8D",
+          "filename": "GOT_TRANSLATED_IS6_CURRENT_SAFE_20260920.gotloc"
+        },
+        "patches": {}
       }
     },
     "test": {
