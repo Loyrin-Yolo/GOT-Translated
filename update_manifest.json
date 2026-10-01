@@ -1,4 +1,4 @@
-﻿{
+{
     "schema":  2,
     "product":  "got.translated.arknights.ru",
     "updater_protocol":  1,
@@ -20,7 +20,12 @@
                                                                   "size":  321116755
                                                               },
                                                      "patches":  {
-
+                                                                     "0.5.6":  {
+                                                                                   "url":  "https://github.com/Loyrin-Yolo/GOT-Translated/releases/download/v0.5.7/GOT-Translated-Launcher-v0.5.6-to-v0.5.7-PATCH.zip",
+                                                                                   "sha256":  "8AD0C4BCBEC967C7830EF0A31FD63B13D17197C62AA8A9CEABEAD42D2238F5ED",
+                                                                                   "filename":  "GOT-Translated-Launcher-v0.5.6-to-v0.5.7-PATCH.zip",
+                                                                                   "size":  109537210
+                                                                               }
                                                                  }
                                                  },
                                     "translation":  {
