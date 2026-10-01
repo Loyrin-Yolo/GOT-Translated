@@ -1,4 +1,4 @@
-{
+﻿{
     "schema":  2,
     "product":  "got.translated.arknights.ru",
     "updater_protocol":  1,
@@ -7,46 +7,35 @@
                      "stable":  {
                                     "notes":  "Stable channel",
                                     "launcher":  {
-                                                     "version":  "0.5.6",
-                                                     "url":  "https://github.com/Loyrin-Yolo/GOT-Translated/releases/download/v0.5.6/GOT-Translated-Launcher-v0.5.6.zip",
-                                                     "sha256":  "869ECC79A37602B80FA81AA62525E8ECC285A691CFEC3527BC0FE292380F5075",
-                                                     "filename":  "GOT-Translated-Launcher-v0.5.6.zip",
-                                                     "entry":  "GOT-Translated-Launcher-v0.5.6.exe",
-                                                     "size":  318704296,
+                                                     "version":  "0.5.7",
+                                                     "url":  "https://github.com/Loyrin-Yolo/GOT-Translated/releases/download/v0.5.7/GOT-Translated-Launcher-v0.5.7.zip",
+                                                     "sha256":  "D8B2A1209F609A0D9F6A9F0320F90003098FD34FBEC22FA7D66A57CA24330D4A",
+                                                     "filename":  "GOT-Translated-Launcher-v0.5.7.zip",
+                                                     "entry":  "GOT-Translated-Launcher-v0.5.7.exe",
+                                                     "size":  321116755,
                                                      "full":  {
-                                                                  "url":  "https://github.com/Loyrin-Yolo/GOT-Translated/releases/download/v0.5.6/GOT-Translated-Launcher-v0.5.6.zip",
-                                                                  "sha256":  "869ECC79A37602B80FA81AA62525E8ECC285A691CFEC3527BC0FE292380F5075",
-                                                                  "filename":  "GOT-Translated-Launcher-v0.5.6.zip",
-                                                                  "size":  318704296
+                                                                  "url":  "https://github.com/Loyrin-Yolo/GOT-Translated/releases/download/v0.5.7/GOT-Translated-Launcher-v0.5.7.zip",
+                                                                  "sha256":  "D8B2A1209F609A0D9F6A9F0320F90003098FD34FBEC22FA7D66A57CA24330D4A",
+                                                                  "filename":  "GOT-Translated-Launcher-v0.5.7.zip",
+                                                                  "size":  321116755
                                                               },
                                                      "patches":  {
-                                                                     "0.5.5":  {
-                                                                                   "url":  "https://github.com/Loyrin-Yolo/GOT-Translated/releases/download/v0.5.6/GOT-Translated-Launcher-v0.5.5-to-v0.5.6-PATCH.zip",
-                                                                                   "sha256":  "4A26784D70E826D23A2E8D1905684DD3FAD5975E589BE7F6E91C70BBD838437B",
-                                                                                   "filename":  "GOT-Translated-Launcher-v0.5.5-to-v0.5.6-PATCH.zip",
-                                                                                   "size":  100325
-                                                                               },
-                                                                     "0.5.4":  {
-                                                                                   "url":  "https://github.com/Loyrin-Yolo/GOT-Translated/releases/download/v0.5.6/GOT-Translated-Launcher-v0.5.4-to-v0.5.6-PATCH.zip",
-                                                                                   "sha256":  "089C5B07530FDCBDEAAF681D1C4BAFFE4798010DD22DABD8B02A3F641D9FD7C5",
-                                                                                   "filename":  "GOT-Translated-Launcher-v0.5.4-to-v0.5.6-PATCH.zip",
-                                                                                   "size":  104841902
-                                                                               }
+
                                                                  }
                                                  },
                                     "translation":  {
-                                                        "version":  "2.2-inventory.20260927",
-                                                        "sequence":  2026092701,
-                                                        "url":  "https://github.com/Loyrin-Yolo/GOT-Translated/releases/download/v0.5.5/GOT_TRANSLATED_RU_V2.2_INVENTORY_20260927.gotloc",
-                                                        "sha256":  "70665690E50B96826722F0EEE40DFCFBD5FF93CCF77D4234D41ED61B3F8CCB03",
-                                                        "filename":  "GOT_TRANSLATED_RU_V2.2_INVENTORY_20260927.gotloc",
-                                                        "size":  104520008,
-                                                        "min_launcher":  "0.5.4",
+                                                        "version":  "2.3.2-cumulative-a0da-popup.20261001",
+                                                        "sequence":  2026100102,
+                                                        "url":  "https://github.com/Loyrin-Yolo/GOT-Translated/releases/download/v0.5.7/GOT_TRANSLATED_RU_V2.3.2_CUMULATIVE_A0DA_POPUP_20261001.gotloc",
+                                                        "sha256":  "88FED09076D6482621B8175759CF37204A0F048D96B743CCF24746A5CCBD7854",
+                                                        "filename":  "GOT_TRANSLATED_RU_V2.3.2_CUMULATIVE_A0DA_POPUP_20261001.gotloc",
+                                                        "size":  106572072,
+                                                        "min_launcher":  "0.5.7",
                                                         "full":  {
-                                                                     "url":  "https://github.com/Loyrin-Yolo/GOT-Translated/releases/download/v0.5.5/GOT_TRANSLATED_RU_V2.2_INVENTORY_20260927.gotloc",
-                                                                     "sha256":  "70665690E50B96826722F0EEE40DFCFBD5FF93CCF77D4234D41ED61B3F8CCB03",
-                                                                     "filename":  "GOT_TRANSLATED_RU_V2.2_INVENTORY_20260927.gotloc",
-                                                                     "size":  104520008
+                                                                     "url":  "https://github.com/Loyrin-Yolo/GOT-Translated/releases/download/v0.5.7/GOT_TRANSLATED_RU_V2.3.2_CUMULATIVE_A0DA_POPUP_20261001.gotloc",
+                                                                     "sha256":  "88FED09076D6482621B8175759CF37204A0F048D96B743CCF24746A5CCBD7854",
+                                                                     "filename":  "GOT_TRANSLATED_RU_V2.3.2_CUMULATIVE_A0DA_POPUP_20261001.gotloc",
+                                                                     "size":  106572072
                                                                  },
                                                         "patches":  {
 
