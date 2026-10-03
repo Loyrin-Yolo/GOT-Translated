@@ -19,7 +19,14 @@
           "filename": "GOT-Translated-Launcher-v0.5.7.1-RELEASE.zip",
           "size": 337698559
         },
-        "patches": {}
+        "patches": {
+          "0.5.7": {
+            "url": "https://github.com/Loyrin-Yolo/GOT-Translated/releases/download/v0.5.7.1/GOT-Translated-Launcher-v0.5.7-to-v0.5.7.1-PATCH.zip",
+            "sha256": "A9F63CF9A2E75A11DAF925DEF6DF7925706E90395A7538D67B55C9256AF7D553",
+            "filename": "GOT-Translated-Launcher-v0.5.7-to-v0.5.7.1-PATCH.zip",
+            "size": 123158046
+          }
+        }
       },
       "translation": {
         "version": "2.3.2-cumulative-a0da-popup.20261001-authfix1",
