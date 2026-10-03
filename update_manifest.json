@@ -8,16 +8,16 @@
       "notes": "Stable channel",
       "launcher": {
         "version": "0.5.7.1",
-        "url": "https://github.com/Loyrin-Yolo/GOT-Translated/releases/download/v0.5.7.1/GOT-Translated-Launcher-v0.5.7.1-RELEASE.zip",
-        "sha256": "958CDF49E2CC506700BDFDCADFC5E6D78004893EB7AE7E042EF2E1347EA248B2",
-        "filename": "GOT-Translated-Launcher-v0.5.7.1-RELEASE.zip",
+        "url": "https://github.com/Loyrin-Yolo/GOT-Translated/releases/download/v0.5.7.1/GOT-Translated-Launcher-v0.5.7.1-FULL.zip",
+        "sha256": "53C791A602E9CC11303681472340E522A7C33BE87B3027E9CADE6B5A48DBEB83",
+        "filename": "GOT-Translated-Launcher-v0.5.7.1-FULL.zip",
         "entry": "GOT-Translated-Launcher-v0.5.7.1.exe",
-        "size": 337698559,
+        "size": 337686349,
         "full": {
-          "url": "https://github.com/Loyrin-Yolo/GOT-Translated/releases/download/v0.5.7.1/GOT-Translated-Launcher-v0.5.7.1-RELEASE.zip",
-          "sha256": "958CDF49E2CC506700BDFDCADFC5E6D78004893EB7AE7E042EF2E1347EA248B2",
-          "filename": "GOT-Translated-Launcher-v0.5.7.1-RELEASE.zip",
-          "size": 337698559
+          "url": "https://github.com/Loyrin-Yolo/GOT-Translated/releases/download/v0.5.7.1/GOT-Translated-Launcher-v0.5.7.1-FULL.zip",
+          "sha256": "53C791A602E9CC11303681472340E522A7C33BE87B3027E9CADE6B5A48DBEB83",
+          "filename": "GOT-Translated-Launcher-v0.5.7.1-FULL.zip",
+          "size": 337686349
         },
         "patches": {
           "0.5.7": {
