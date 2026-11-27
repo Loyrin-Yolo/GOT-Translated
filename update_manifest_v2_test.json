@@ -1,0 +1,18 @@
+{
+  "schema": 4,
+  "updater_protocol": 2,
+  "channel": "test",
+  "runtime": "0.5.8",
+  "launcher": [
+    {
+      "version": "0.5.8-rc.7",
+      "from_version": "0.5.8-rc.6",
+      "from_manifest": "81d5754bc183a07ffdf6a727aa6380ab191aa8916e48092e31856cacc1c2a58c",
+      "runtime": "0.5.8",
+      "sha256": "eab578c49c9a1448e4fc5123b13c6ada30876ca4cd1f7a00953cb94a439ab1e0",
+      "size": 2735477,
+      "url": "https://github.com/Loyrin-Yolo/GOT-Translated/releases/download/got-cp28-network-test/GOT_LAUNCHER_rc6_to_rc7_TEST.zip"
+    }
+  ],
+  "translation": []
+}
