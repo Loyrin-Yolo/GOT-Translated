@@ -22,4 +22,4 @@
 
 Unresolved: dependency-specific versions and licenses (HarmonyX, MonoMod, Il2CppInterop, Cpp2IL, AsmResolver, AssetRipper, etc.), complete corresponding source where required, frozen runtime notices and actual binary provenance, rights to dictionaries/art and game authorization. No claim of complete legal review. The main repository folder and the user's ZIP both carry these documents; no separate release assets are necessary. The public binary release gate remains independent.
 
-R7 obtains Unity reference libraries (2021.3.39) separately from the BepInEx library service during installation. No Unity DLL or reference ZIP is included in the release. Applicable Unity terms remain under review.
+R8 private test includes the user-supplied Unity 2021.3.39 reference archive in the local binary candidate. This does not establish redistribution rights. Public release requires specific Unity redistribution evidence in RELEASE_REVIEW.json. Only text notices and hashes are published to main, not the Unity ZIP.

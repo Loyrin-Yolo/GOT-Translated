@@ -191,6 +191,7 @@
   "status": "REVIEW_INCOMPLETE",
   "unresolved": [
     "exact binary provenance and dependency-specific licenses",
+    "Unity reference archive redistribution rights",
     "corresponding source obligations",
     "actual frozen binary notices",
     "translation/art rights and game authorization"
