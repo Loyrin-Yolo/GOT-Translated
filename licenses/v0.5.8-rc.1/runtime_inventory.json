@@ -41,9 +41,9 @@
       "sha256": "1862276352c81051c443acf70f818083577ad3d6fc2314f74427e64e33fc413b"
     },
     {
-      "bytes": 13307244,
+      "bytes": 13307242,
       "path": "BepInEx/Translation/zh/Text/GOT_RU.txt",
-      "sha256": "f44b67ef6f3fedfad72d8ec8ffc91397332ee21d906f26333c1d832147a015a8"
+      "sha256": "97bcad9be83dd59c309d5b371cbe54c1912a9b6139d20ef81efc0c90c25c7ec1"
     },
     {
       "bytes": 2889,
@@ -273,7 +273,7 @@
     {
       "bytes": 42131,
       "path": "GOT_PACKAGE.json",
-      "sha256": "f2fabf71eafa9e8917f3e5ab401c585db3c579e21706f485612a7ec52d33e45a"
+      "sha256": "52bdcd97327dd1f5dc26a0cafce5424785a2c2564a58e26049a98421555c3f40"
     },
     {
       "bytes": 1881,
@@ -1221,5 +1221,5 @@
       "sha256": "d3b62f4c9c3e2196ef82603c52d6b98c043a0d6c125c081fd33d7ca3798b41b8"
     }
   ],
-  "runtime_sha256": "40610f07b7dc25f2fff522030d60d13d15510660ebf236719604457e4b93de5c"
+  "runtime_sha256": "ab8cc4ab0e357b3145c7fd44a91bd5b38a252d60ccf553855694a9e0862a2873"
 }
