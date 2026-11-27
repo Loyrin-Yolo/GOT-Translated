@@ -2,3 +2,5 @@ PRIVATE INTEGRATION TEST ONLY / НЕ ПУБЛИКОВАТЬ
 Runtime assembled from the exact user-supplied ArknightsLocalizationToolkit v2.0.0 archive.
 Components: BepInEx (https://github.com/BepInEx/BepInEx), UnityDoorstop (https://github.com/NeighTools/UnityDoorstop), XUnity.AutoTranslator (https://github.com/bbepis/XUnity.AutoTranslator), .NET runtime and their dependencies.
 Third-party code is unchanged. The upstream Chinese dictionaries, Chinese font and RichTextFix plugin are excluded, as in CP15. Only the Russian dictionaries and documented configuration are provided. Verify redistribution licenses, source/notice obligations and game authorization before any public distribution. This is not a permission grant. No rights to game assets are asserted.
+
+R7 downloads Unity base libraries separately from https://unity.bepinex.dev/libraries/2021.3.39.zip at installation time; they are not redistributed in this archive. User-provided reference ZIP SHA256: 241633520b0aa252215efca4eced19e3f3c43aaaa083a32f801a65da0461cbb0. Provenance and applicable Unity terms require review before public release.

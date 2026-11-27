@@ -21,3 +21,5 @@
 | LocalizationToolkit | user-supplied v2.0.0; upstream identity and redistribution terms pending | Not a separate installed application in this package. Audit provenance of retained components. |
 
 Unresolved: dependency-specific versions and licenses (HarmonyX, MonoMod, Il2CppInterop, Cpp2IL, AsmResolver, AssetRipper, etc.), complete corresponding source where required, frozen runtime notices and actual binary provenance, rights to dictionaries/art and game authorization. No claim of complete legal review. The main repository folder and the user's ZIP both carry these documents; no separate release assets are necessary. The public binary release gate remains independent.
+
+R7 obtains Unity reference libraries (2021.3.39) separately from the BepInEx library service during installation. No Unity DLL or reference ZIP is included in the release. Applicable Unity terms remain under review.
