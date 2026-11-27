@@ -1,0 +1,11 @@
+ПРЕДВАРИТЕЛЬНЫЙ АУДИТ ЛИЦЕНЗИЙ — PUBLIC RELEASE BLOCKED
+27.11.2026 / CP24 R2
+
+В исходном runtime.zip 244 члена (243 payload + манифест); файлов с именами LICENSE или NOTICE не обнаружено. Это не доказывает отсутствие лицензий у компонентов, но комплект не готов для публичного распространения.
+
+BepInEx 6.0.0-be.697 (версия из HANDOFF): upstream BepInEx/BepInEx указывает LGPL-2.1. https://github.com/BepInEx/BepInEx/blob/master/LICENSE . Требуется точный исходный commit/release be.697, соответствующий исходный код и полный комплект лицензионных уведомлений; проверить применимые обязательства LGPL при распространении бинарников и возможность замены библиотек.
+UnityDoorstop: .doorstop_version = 4.3.0. Upstream https://github.com/NeighTools/UnityDoorstop ; текущая документация отличает старый Doorstop 3 (CC0) от текущей ветки. Лицензию именно 4.3.0 не удалось подтвердить по точному тегу, поэтому считать её неустановленной, не переносить автоматически CC0 старой версии.
+XUnity.AutoTranslator 5.6.1 (версия из HANDOFF): upstream MIT, https://github.com/bbepis/XUnity.AutoTranslator/blob/master/LICENSE . Необходимо подтвердить точный релиз, включить его copyright + полный текст лицензии, проверить ResourceRedirector и зависимости отдельно.
+.NET: dotnet/.version = 6.0.7, commit 0ec02c8c96e2eda06dc5b5edfdbdba0f36415082. Исходники .NET runtime MIT, https://github.com/dotnet/runtime/blob/main/LICENSE.TXT ; для распространяемого бинарного пакета проверить точный источник, условия бинарной дистрибуции и THIRD-PARTY-NOTICES соответствующей версии. https://github.com/dotnet/core/blob/main/license-information.md . Старую версию runtime не обновляли ради совместимости, нужна отдельная оценка поддержки/безопасности.
+
+До публичного релиза: идентифицировать происхождение каждого DLL/EXE, включить точные LICENSE/NOTICE и необходимые исходники/предложения исходников, проверить зависимости (HarmonyX, MonoMod, Il2CppInterop, Cpp2IL, AssetRipper, AsmResolver и другие), лицензии Python/Tcl/Tk и PyInstaller для фактической Windows-сборки, условия использования игры, права на исходные словари/переводы/ассеты и разрешение правообладателя. Не считать upstream-лицензию разрешением на модификацию игры. Не считать аудит завершённым. Исходный runtime и перевод не изменены.

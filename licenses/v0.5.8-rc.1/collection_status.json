@@ -1,0 +1,236 @@
+{
+  "build_environment": {
+    "notices": [
+      {
+        "path": "build_environment/Python/LICENSE.txt",
+        "sha256": "935cf13e19f8c31b497d20b05d73623431a226b230c3599bc30fa3348979bc68"
+      },
+      {
+        "path": "build_environment/Python/LICENSE.TXT",
+        "sha256": "935cf13e19f8c31b497d20b05d73623431a226b230c3599bc30fa3348979bc68"
+      },
+      {
+        "path": "build_environment/altgraph-0.17.5/LICENSE",
+        "sha256": "6c194d6db0c64d45535d10c95142b9b0cda7b7dcc7f1ddee302b3d536f3dbe46"
+      },
+      {
+        "path": "build_environment/packaging-26.4/licenses/LICENSE",
+        "sha256": "cad1ef5bd340d73e074ba614d26f7deaca5c7940c3d8c34852e65c4909686c48"
+      },
+      {
+        "path": "build_environment/packaging-26.4/licenses/LICENSE.APACHE",
+        "sha256": "0d542e0c8804e39aa7f37eb00da5a762149dc682d7829451287e11b938e94594"
+      },
+      {
+        "path": "build_environment/packaging-26.4/licenses/LICENSE.BSD",
+        "sha256": "b70e7e9b742f1cc6f948b34c16aa39ffece94196364bc88ff0d2180f0028fac5"
+      },
+      {
+        "path": "build_environment/pefile-2024.8.26/LICENSE",
+        "sha256": "b44409c067c6da52bfb54bb6624fb11a7b52157c3a13ae1400232f8196e86ad3"
+      },
+      {
+        "path": "build_environment/pip-26.2.1/licenses/LICENSE.txt",
+        "sha256": "634300a669d49aeae65b12c6c48c924c51a4cdf3d1ff086dc3456dc8bcaa2104"
+      },
+      {
+        "path": "build_environment/pip-26.2.1/licenses/src/pip/_vendor/cachecontrol/LICENSE.txt",
+        "sha256": "86eeee87be2a43f3ff1f56496f451f69243926f025fedbb033666c304c4c161b"
+      },
+      {
+        "path": "build_environment/pip-26.2.1/licenses/src/pip/_vendor/certifi/LICENSE",
+        "sha256": "e93716da6b9c0d5a4a1df60fe695b370f0695603d21f6f83f053e42cfc10caf7"
+      },
+      {
+        "path": "build_environment/pip-26.2.1/licenses/src/pip/_vendor/distlib/LICENSE.txt",
+        "sha256": "808e10c8a6ab8deb149ff9b3fb19f447a808094606d712a9ca57fead3552599d"
+      },
+      {
+        "path": "build_environment/pip-26.2.1/licenses/src/pip/_vendor/distro/LICENSE",
+        "sha256": "cb5e8e7e5f4a3988e1063c142c60dc2df75605f4c46515e776e3aca6df976e14"
+      },
+      {
+        "path": "build_environment/pip-26.2.1/licenses/src/pip/_vendor/idna/LICENSE.md",
+        "sha256": "1a9a4f0e3d479a27240ddd59a9137a66ab4a0f9dfdc8ca6188cc0bfd85187f04"
+      },
+      {
+        "path": "build_environment/pip-26.2.1/licenses/src/pip/_vendor/msgpack/COPYING",
+        "sha256": "492dedba85da5872f78e6091bcd1fea474d660d35acb4dee964b8aab3f007427"
+      },
+      {
+        "path": "build_environment/pip-26.2.1/licenses/src/pip/_vendor/packaging/LICENSE",
+        "sha256": "cad1ef5bd340d73e074ba614d26f7deaca5c7940c3d8c34852e65c4909686c48"
+      },
+      {
+        "path": "build_environment/pip-26.2.1/licenses/src/pip/_vendor/packaging/LICENSE.APACHE",
+        "sha256": "0d542e0c8804e39aa7f37eb00da5a762149dc682d7829451287e11b938e94594"
+      },
+      {
+        "path": "build_environment/pip-26.2.1/licenses/src/pip/_vendor/packaging/LICENSE.BSD",
+        "sha256": "b70e7e9b742f1cc6f948b34c16aa39ffece94196364bc88ff0d2180f0028fac5"
+      },
+      {
+        "path": "build_environment/pip-26.2.1/licenses/src/pip/_vendor/pkg_resources/LICENSE",
+        "sha256": "86da0f01aeae46348a3c3d465195dc1ceccde79f79e87769a64b8da04b2a4741"
+      },
+      {
+        "path": "build_environment/pip-26.2.1/licenses/src/pip/_vendor/platformdirs/LICENSE",
+        "sha256": "29e0fd62e929850e86eb28c3fdccf0cefdf4fa94879011cffb3d0d4bed6d4db6"
+      },
+      {
+        "path": "build_environment/pip-26.2.1/licenses/src/pip/_vendor/pygments/LICENSE",
+        "sha256": "a9d66f1d526df02e29dce73436d34e56e8632f46c275bbdffc70569e882f9f17"
+      },
+      {
+        "path": "build_environment/pip-26.2.1/licenses/src/pip/_vendor/pyproject_hooks/LICENSE",
+        "sha256": "1b22b049b5267d6dfc23a67bf4a84d8ec04b9fdfb1a51d360e42b4342c8b4154"
+      },
+      {
+        "path": "build_environment/pip-26.2.1/licenses/src/pip/_vendor/requests/LICENSE",
+        "sha256": "09e8a9bcec8067104652c168685ab0931e7868f9c8284b66f5ae6edae5f1130b"
+      },
+      {
+        "path": "build_environment/pip-26.2.1/licenses/src/pip/_vendor/resolvelib/LICENSE",
+        "sha256": "f388fd38cad13112c1dc0f669bbe80e7f84541edbafb72f3030d2ca7642c3c9d"
+      },
+      {
+        "path": "build_environment/pip-26.2.1/licenses/src/pip/_vendor/rich/LICENSE",
+        "sha256": "deed7c17a4318158190a3ea239cc879a5a50271cebb98ae7025f48fbe58dca15"
+      },
+      {
+        "path": "build_environment/pip-26.2.1/licenses/src/pip/_vendor/tomli/LICENSE",
+        "sha256": "b80816b0d530b8accb4c2211783790984a6e3b61922c2b5ee92f3372ab2742fe"
+      },
+      {
+        "path": "build_environment/pip-26.2.1/licenses/src/pip/_vendor/tomli_w/LICENSE",
+        "sha256": "b80816b0d530b8accb4c2211783790984a6e3b61922c2b5ee92f3372ab2742fe"
+      },
+      {
+        "path": "build_environment/pip-26.2.1/licenses/src/pip/_vendor/truststore/LICENSE",
+        "sha256": "33be7b7e8fa4fd19b1760e1a8ed8a668bdab852c91b692dd41424bcb725a9fca"
+      },
+      {
+        "path": "build_environment/pip-26.2.1/licenses/src/pip/_vendor/urllib3/LICENSE.txt",
+        "sha256": "130e3a64d5fdd5d096a752694634a7d9df284469de86e5732100268041e3d686"
+      },
+      {
+        "path": "build_environment/pyinstaller-6.22.3/licenses/COPYING.txt",
+        "sha256": "0598064c7d2718e38d7914a7d08343b2fa008e3bea9ebba2aa7a6ffa5900dd64"
+      },
+      {
+        "path": "build_environment/pyinstaller-hooks-contrib-2026.10/licenses/LICENSE",
+        "sha256": "91d0baaff00773038e72c0a1fc9d5d2d38706b7a2b9c04f34296608f931b9cd0"
+      },
+      {
+        "path": "build_environment/pywin32-ctypes-0.2.3/LICENSE.txt",
+        "sha256": "dfa83b3e2709adfcdb838d9ad55823ca674abb780e60563d9dd9544ccbf785e9"
+      },
+      {
+        "path": "build_environment/setuptools-84.2.1/licenses/LICENSE",
+        "sha256": "86da0f01aeae46348a3c3d465195dc1ceccde79f79e87769a64b8da04b2a4741"
+      },
+      {
+        "path": "build_environment/setuptools-84.2.1/_vendor/autocommand-2.2.2.dist-info/LICENSE",
+        "sha256": "ade78d04982d69972d444a8e14a94f87a2334dd3855cc80348ea8e240aa0df2d"
+      },
+      {
+        "path": "build_environment/setuptools-84.2.1/_vendor/backports.tarfile-1.2.0.dist-info/LICENSE",
+        "sha256": "86da0f01aeae46348a3c3d465195dc1ceccde79f79e87769a64b8da04b2a4741"
+      },
+      {
+        "path": "build_environment/setuptools-84.2.1/_vendor/importlib_metadata-8.7.1.dist-info/licenses/LICENSE",
+        "sha256": "458502e12d97bbf64438606a20044aa85eb05fb0a8a807bb35dbec253fd1fc04"
+      },
+      {
+        "path": "build_environment/setuptools-84.2.1/_vendor/jaraco.text-4.0.0.dist-info/LICENSE",
+        "sha256": "86da0f01aeae46348a3c3d465195dc1ceccde79f79e87769a64b8da04b2a4741"
+      },
+      {
+        "path": "build_environment/setuptools-84.2.1/_vendor/jaraco_context-6.1.0.dist-info/licenses/LICENSE",
+        "sha256": "9755a18519666e5f0f4cae3daad3d7012bcae48a600b31237d75e9fe134e6683"
+      },
+      {
+        "path": "build_environment/setuptools-84.2.1/_vendor/jaraco_functools-4.4.0.dist-info/licenses/LICENSE",
+        "sha256": "5a57cb4db85e2a2dd88c290628908add57e3451449e0a9a71fdfb38776fd759d"
+      },
+      {
+        "path": "build_environment/setuptools-84.2.1/_vendor/more_itertools-10.8.0.dist-info/licenses/LICENSE",
+        "sha256": "09f1c8c9e941af3e584d59641ea9b87d83c0cb0fd007eb5ef391a7e2643c1a46"
+      },
+      {
+        "path": "build_environment/setuptools-84.2.1/_vendor/packaging-26.3.dist-info/licenses/LICENSE",
+        "sha256": "cad1ef5bd340d73e074ba614d26f7deaca5c7940c3d8c34852e65c4909686c48"
+      },
+      {
+        "path": "build_environment/setuptools-84.2.1/_vendor/packaging-26.3.dist-info/licenses/LICENSE.APACHE",
+        "sha256": "0d542e0c8804e39aa7f37eb00da5a762149dc682d7829451287e11b938e94594"
+      },
+      {
+        "path": "build_environment/setuptools-84.2.1/_vendor/packaging-26.3.dist-info/licenses/LICENSE.BSD",
+        "sha256": "b70e7e9b742f1cc6f948b34c16aa39ffece94196364bc88ff0d2180f0028fac5"
+      },
+      {
+        "path": "build_environment/setuptools-84.2.1/_vendor/platformdirs-4.4.0.dist-info/licenses/LICENSE",
+        "sha256": "29e0fd62e929850e86eb28c3fdccf0cefdf4fa94879011cffb3d0d4bed6d4db6"
+      },
+      {
+        "path": "build_environment/setuptools-84.2.1/_vendor/tomli-2.4.0.dist-info/licenses/LICENSE",
+        "sha256": "b80816b0d530b8accb4c2211783790984a6e3b61922c2b5ee92f3372ab2742fe"
+      },
+      {
+        "path": "build_environment/setuptools-84.2.1/_vendor/wheel-0.46.3.dist-info/licenses/LICENSE.txt",
+        "sha256": "30c23618679108f3e8ea1d2a658c7ca417bdfc891c98ef1a89fa4ff0c9828654"
+      },
+      {
+        "path": "build_environment/setuptools-84.2.1/_vendor/zipp-3.23.0.dist-info/licenses/LICENSE",
+        "sha256": "5a57cb4db85e2a2dd88c290628908add57e3451449e0a9a71fdfb38776fd759d"
+      }
+    ],
+    "python_version": "3.14.7"
+  },
+  "status": "REVIEW_INCOMPLETE",
+  "unresolved": [
+    "exact binary provenance and dependency-specific licenses",
+    "corresponding source obligations",
+    "actual frozen binary notices",
+    "translation/art rights and game authorization"
+  ],
+  "upstream": [
+    {
+      "file": "upstream/BepInEx-LICENSE.txt",
+      "sha256": "f2ceca48af033d8adf337a8f9453e633cfad10a1f8c9fec2e5ae55a2d8ffe952",
+      "status": "COLLECTED_REVIEW_REQUIRED",
+      "url": "https://raw.githubusercontent.com/BepInEx/BepInEx/5362580/LICENSE"
+    },
+    {
+      "file": "upstream/XUnity-LICENSE.txt",
+      "sha256": "e6e534ef6f4347b6449407ee046a3d09cb0174c6f688c996ad0bed94b74b3933",
+      "status": "COLLECTED_REVIEW_REQUIRED",
+      "url": "https://raw.githubusercontent.com/bbepis/XUnity.AutoTranslator/v5.6.1/LICENSE"
+    },
+    {
+      "file": "upstream/Doorstop-LICENSE.txt",
+      "sha256": "20c17d8b8c48a600800dfd14f95d5cb9ff47066a9641ddeab48dc54aec96e331",
+      "status": "COLLECTED_REVIEW_REQUIRED",
+      "url": "https://raw.githubusercontent.com/NeighTools/UnityDoorstop/v4.3.0/LICENSE"
+    },
+    {
+      "file": "upstream/dotnet-LICENSE.txt",
+      "sha256": "cfc21f5e8bd655ae997eec916138b707b1d290b83272c02a95c9f821b8c87310",
+      "status": "COLLECTED_REVIEW_REQUIRED",
+      "url": "https://raw.githubusercontent.com/dotnet/runtime/0ec02c8c96e2eda06dc5b5edfdbdba0f36415082/LICENSE.TXT"
+    },
+    {
+      "file": "upstream/dotnet-THIRD-PARTY-NOTICES.txt",
+      "sha256": "55ff71c32f96483c2f4e061eb78ee9bf3d8d562d00143c67b361bb4ce989fe44",
+      "status": "COLLECTED_REVIEW_REQUIRED",
+      "url": "https://raw.githubusercontent.com/dotnet/runtime/0ec02c8c96e2eda06dc5b5edfdbdba0f36415082/THIRD-PARTY-NOTICES.TXT"
+    },
+    {
+      "file": "upstream/dotnet-installer-THIRD-PARTY-NOTICES.txt",
+      "sha256": "17eff2e2ea99d6f53448a9e5d800ec6961c047cf3b46c20d638372bf4862378f",
+      "status": "COLLECTED_REVIEW_REQUIRED",
+      "url": "https://raw.githubusercontent.com/dotnet/runtime/0ec02c8c96e2eda06dc5b5edfdbdba0f36415082/src/installer/pkg/THIRD-PARTY-NOTICES.TXT"
+    }
+  ]
+}
